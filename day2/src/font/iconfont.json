@@ -1,0 +1,30 @@
+{
+  "id": "723301",
+  "name": "one",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9214971",
+      "name": "安全_line",
+      "font_class": "anquan",
+      "unicode": "e872",
+      "unicode_decimal": 59506
+    },
+    {
+      "icon_id": "9214972",
+      "name": "彩蛋_line",
+      "font_class": "caidan",
+      "unicode": "e873",
+      "unicode_decimal": 59507
+    },
+    {
+      "icon_id": "9214973",
+      "name": "爱心_line",
+      "font_class": "aixin",
+      "unicode": "e874",
+      "unicode_decimal": 59508
+    }
+  ]
+}

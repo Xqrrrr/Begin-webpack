@@ -1,0 +1,11 @@
+@import './font/iconfont.scss'; //这样引入，引入的文件中，再次引入其他文件时，路径以当前文件为基准；
+
+body{
+  margin: 0;
+}
+.image{
+  width: 200px;
+  height: 200px;
+  display: flex;
+  transform: translate(100px,100px);
+}
